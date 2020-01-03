@@ -1,4 +1,4 @@
-# :trophy::usamap: Assignment 2 MapReduce Algorithm :trophy:
+# :trophy::fire: Assignment 2 MapReduce Algorithm :trophy:
 
 
 
